@@ -7,5 +7,7 @@ public class Oneclass {
 public void A() {
 	System.out.println("done");
 	System.out.println("done");
+	System.out.println("done");
+	System.out.println("done");
 }
 }
